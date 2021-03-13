@@ -6,12 +6,14 @@ echo "#This is a package manager for gearlock files/extensions.
  
 "
 
-read -p "Welcome to Gpm >>>> " gpm
+read -p "Welcome to Gpm >> " gpm
 
 if [ $gpm = list ];then
 clear
 figlet -c Packages
-echo "Mesa20.2
+echo "
+
+Mesa20.2
 Lspeed
 CloudFareDNS
 Xapk-Installer
