@@ -1,10 +1,36 @@
 #!/gearlock/bin/bash
 
-URL="https://raw.githubusercontent.com/"
         case $1 in 
-            list) echo "Updating list of packages" && echo $(axel $URL && cat Links.txt)
+            list) 
+            clear
+            figlet -c Packages
+            echo "
+            
+--> Mesa20.2 by Hmtheboy154
+--> CloudFareDNS by AXON
+--> Xapk-Installer by JaxParrow
+--> App-Backup-and-Restore by Jaxporrow
+## MORE TO COME ##
+            
+            "
+            read -n 1 -s -r -p "Press Enter To Continue "
+            gpm #since its in /system/bin/
             ;;
             
-            *) echo "Invalid option!"                
+            mesa20.2) echo "Downloading Mesa 20.2"
+            cd /sdcard/Download/
+            axel https://dl.dropbox.com/s/z6ksr4q1k1djwsa/Mesa20.2.6-LLVM10.gxp?dl=1
+            read -n 1 -s -r -p "Download Complete!!-Press Enter To Continue "
+            exit
+            ;;
+            
+            *) echo "
+            
+>>> 'gpm list' to list the available Packages.
+>>> 'gpm' + 'the name of the Package' to download a package
+            
+            "
+            read -n 1 -s -r -p "Press Enter To Continue "
+            gpm #since its in /system/bin/
             ;;
         esac
