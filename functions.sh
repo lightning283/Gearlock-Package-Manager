@@ -1,8 +1,9 @@
             downloader () {
+            read -n 1 -s -r -p "Need to get $SIZE of archives
+            Press Enter To Continue or ctrl+c to cancel"
             echo "Downloading $pkgname"
             cd /sdcard/Download/
             axel "$URL"
-            read -n 1 -s -r -p "Download Complete!!-Press Enter To Continue "
             }
             
             
