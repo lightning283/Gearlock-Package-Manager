@@ -24,7 +24,7 @@
             exit
             ;;
             
-            cloudfaredns) echo "Downloading Fast Cloudflare DNS by AXON"
+            cloudflaredns) echo "Downloading Fast Cloudflare DNS by AXON"
             cd /sdcard/Download/
             axel https://dl.dropbox.com/s/6zubh85vz0lfen1/CloudflareDNS4GearLock_2.7-IPv4_xerta555.gxp?dl=1
             read -n 1 -s -r -p "Download Complete!!-Press Enter To Continue "
