@@ -4,7 +4,9 @@
     "cloudflaredns",
     "xapkinstaller",
     "appbackup",
-    "mesa18"
+    "mesa18",
+    "evolution-cursors",
+    "mesa19"
   ],
 
   "mesa20": [
@@ -15,6 +17,55 @@
     "category":"Mesa-Packages"
   }
 
-  ]
+  ],
+  
+  "evolution-cursors": [
+  {
+    "name":"Evolution-Cursors by Xtr",
+    "size":"SomeMB",
+    "link":"https://dl.dropbox.com/s/uf7s6uyvaovs5hd/Evolution-Cursor-For-DarkMatter_Exo4.7_AXON.gxp?dl=1",
+    "category":"Customisation"
+  }
 
+  ],
+  
+  "appbackup": [
+  {
+    "name":"App Backup And Restore By Jaxparrow",
+    "size":"SomeMB",
+    "link":"https://dl.dropbox.com/s/kp0dk09z101qsrn/App%20Backup%20%26%20Restore_1.7_Jaxparrow.gxp?dl=1",
+    "category":"Utils"
+  }
+
+  ],
+
+  "xapkinstaller": [
+  {
+    "name":"Installer For files with .xapk format",
+    "size":"SomeMB",
+    "link":"https://dl.dropbox.com/s/o7gbm8yjghb1qhg/XAPK%20Installer_2.6_Jaxparrow.gxp?dl=1",
+    "category":"Utils"
+  }
+
+  ],
+  
+  "cloudflaredns": [
+  {
+    "name":"ClouflareDns port for gearlock",
+    "size":"SomeMB",
+    "link":"https://dl.dropbox.com/s/6zubh85vz0lfen1/CloudflareDNS4GearLock_2.7-IPv4_xerta555.gxp?dl=1",
+    "category":"Utils"
+  }
+
+  ],
+  
+  "mesa19": [
+  {
+    "name":"Mesa 19.x.x Graphics Rendering Drivers(By AXON and Mido.fayad)",
+    "size":"SomeMB",
+    "link":"https://dl.dropbox.com/s/hl0o220au54gua3/Mesa3D-Driver_19.1.0-Android-7.1_AXON-and-MidoFayad.gxp?dl=1",
+    "category":"Mesa-Packages"
+  }
+
+  ]
 }
