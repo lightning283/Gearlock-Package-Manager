@@ -14,7 +14,7 @@
             
             "
             read -n 1 -s -r -p "Press Enter To Continue "
-            gpm #since its in /system/bin/
+            exit
             ;;
             
             mesa20.2) echo "Downloading Mesa 20.2"
