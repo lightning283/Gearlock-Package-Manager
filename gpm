@@ -39,7 +39,7 @@
             ;;
             
             *) echo "
-            
+!!!! Invalid Option !!!!            
 >>> 'gpm list' to list the available Packages.
 >>> 'gpm' + 'the name of the Package' to download a package
             
