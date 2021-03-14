@@ -1,4 +1,0 @@
-xapk installer ->  https://dl.dropbox.com/s/o7gbm8yjghb1qhg/XAPK%20Installer_2.6_Jaxparrow.gxp?dl=1
-cloudfare dns ->  https://dl.dropbox.com/s/6zubh85vz0lfen1/CloudflareDNS4GearLock_2.7-IPv4_xerta555.gxp?dl=1
-app backup and restore -> https://dl.dropbox.com/s/kp0dk09z101qsrn/App%20Backup%20%26%20Restore_1.7_Jaxparrow.gxp?dl=1
-Mesa20.2 -> https://dl.dropbox.com/s/z6ksr4q1k1djwsa/Mesa20.2.6-LLVM10.gxp?dl=1
