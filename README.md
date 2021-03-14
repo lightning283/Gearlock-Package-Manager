@@ -7,6 +7,7 @@ A package manager like pacman in arch, but for gearlock packages and for android
 -  İlhan
 -  Manky/lolify
 -  Jaxparrow
+-  Erza
 
 # To-Do
 - [ ] Add Search Option.
