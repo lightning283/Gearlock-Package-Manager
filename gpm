@@ -45,6 +45,7 @@
             
             "
             read -n 1 -s -r -p "Press Enter To Continue "
+            exit
             gpm #since its in /system/bin/
             ;;
         esac
