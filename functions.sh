@@ -14,7 +14,7 @@
             downloader
             }
             
-            cloudfaredns () { 
+            cloudflaredns () { 
             pkname="Downloading Fast Cloudflare DNS by AXON"
             URL="https://dl.dropbox.com/s/6zubh85vz0lfen1/CloudflareDNS4GearLock_2.7-IPv4_xerta555.gxp?dl=1"
             SIZE="MB"
