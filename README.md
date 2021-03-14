@@ -4,7 +4,7 @@ A package manager like pacman in arch, but for gearlock packages and for android
 -  VYPR
 -  XTR
 -  LIGHTNING
--  Ilhan
+-  İlhan
 -  Manky/lolify
 -  Jaxparrow
 
