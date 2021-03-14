@@ -5,11 +5,7 @@
     "xapkinstaller",
     "appbackup",
     "mesa18",
-<<<<<<< HEAD
     "evolution-cursors",
-=======
-    "Evolution-Cursors",
->>>>>>> 0ab375c0acf7f30fe8cc242012766b2e9ebccbe0
     "mesa19"
   ],
 
@@ -23,11 +19,7 @@
 
   ],
   
-<<<<<<< HEAD
   "evolution-cursors": [
-=======
-  "Evolution-Cursors": [
->>>>>>> 0ab375c0acf7f30fe8cc242012766b2e9ebccbe0
   {
     "name":"Evolution-Cursors by Xtr",
     "size":"SomeMB",
