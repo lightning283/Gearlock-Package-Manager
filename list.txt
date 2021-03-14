@@ -1,5 +1,5 @@
 --> Mesa20.2 by Hmtheboy154- pkg-name=mesa20.2
---> CloudFareDNS by AXON- pkg-name=cloudfaredns
+--> CloudFareDNS by AXON- pkg-name=cloudflaredns
 --> Xapk-Installer by JaxParrow- pkg-name=xapkinstaller
 --> App-Backup-and-Restore by Jaxporrow pkg-name=appbackup
 ## MORE TO COME ##
