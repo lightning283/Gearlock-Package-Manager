@@ -35,3 +35,10 @@
             downloader
             }
             
+            mesa-18 () { 
+            pkgname="Mesa18 by Hmtheboy154"
+            URL="https://dl.dropbox.com/s/g80uju1661o382l/Mesa3D-Driver_18.1.9-Android-7.1_Hmtheboy154.gxp?dl=1"
+            SIZE="MB"
+            downloader
+            }
+            
